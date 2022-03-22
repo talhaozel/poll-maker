@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: 'CircularXXWeb';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('CircularXXWeb Regular'), local('CircularXXWeb-Regular'), url(https://cdn.jotfor.ms/fonts/circularx/fonts/CircularXXWeb-Book.woff2) format('woff2'), url(https://cdn.jotfor.ms/fonts/circularx/fonts/CircularXXWeb-Book.woff) format('woff');
+  }
+  @font-face {
+    font-family: 'CircularXXWeb';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('CircularXXWeb Regular'), local('CircularXXWeb-Regular'), url(https://cdn.jotfor.ms/fonts/circularx/fonts/CircularXXWeb-Regular.woff2) format('woff2'), url(https://cdn.jotfor.ms/fonts/circularx/fonts/CircularXXWeb-Regular.woff) format('woff');
+  }
+  @font-face {
+    font-family: 'CircularXXWeb';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local('CircularXXWeb Medium'), local('CircularXXWeb-Medium'), url(https://cdn.jotfor.ms/fonts/circularx/fonts/CircularXXWeb-Medium.woff2) format('woff2'), url(https://cdn.jotfor.ms/fonts/circularx/fonts/CircularXXWeb-Medium.woff) format('woff');
+  }
+  @font-face {
+    font-family: 'CircularXXWeb';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('CircularXXWeb Bold'), local('CircularXXWeb-Bold'), url(https://cdn.jotfor.ms/fonts/circularx/fonts/CircularXXWeb-Bold.woff2) format('woff2'), url(https://cdn.jotfor.ms/fonts/circularx/fonts/CircularXXWeb-Bold.woff) format('woff');
+  }
+  $system-font: "CircularXXWeb", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, oxygen-sans, ubuntu, cantarell, "Helvetica Neue", sans-serif;
